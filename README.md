@@ -1,0 +1,1 @@
+# jest-multi-test-ignore-pattern-by-name
