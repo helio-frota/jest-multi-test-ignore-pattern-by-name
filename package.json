@@ -1,0 +1,13 @@
+{
+  "name": "jest-multi-test-ignore-pattern-by-name",
+  "version": "1.0.0",
+  "description": "Basic POC with jest to ignore some tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest -t=$(cat test-ignore)"
+  },
+  "author": "Helio Frota",
+  "devDependencies": {
+    "jest": "^27.4.5"
+  }
+}
